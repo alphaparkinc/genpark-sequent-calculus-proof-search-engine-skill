@@ -1,0 +1,5 @@
+name: genpark-sequent-calculus-proof-search-engine-skill
+description: Gentzen propositional LK sequent calculus automated proof search engine for structural proof theory
+version: 1.0.0
+runtime: python
+entrypoint: mcp_server.py
