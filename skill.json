@@ -1,0 +1,19 @@
+{
+  "name": "genpark-sequent-calculus-proof-search-engine-skill",
+  "version": "1.0.0",
+  "description": "Gentzen propositional LK sequent calculus automated proof search engine for structural proof theory",
+  "category": "Service",
+  "tags": [
+    "mcp",
+    "sequent-calculus",
+    "proof-theory",
+    "gentzen-lk",
+    "automated-theorem-proving",
+    "formal-logic",
+    "tautology-prover",
+    "python-standard-library",
+    "agent-skills",
+    "proof-search",
+    "constructive-logic"
+  ]
+}
