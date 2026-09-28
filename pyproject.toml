@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-sequent-calculus-proof-search-engine-skill"
+version = "1.0.0"
+description = "Gentzen propositional LK sequent calculus automated proof search engine for structural proof theory"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
